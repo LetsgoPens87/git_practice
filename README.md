@@ -1,2 +1,2 @@
 # My First Repo
-My practice rep
+My practice repo
